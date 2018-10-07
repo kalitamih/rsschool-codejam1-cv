@@ -152,7 +152,7 @@
     background: #ffffff url(../images/quote_medium.png) no-repeat 0px 5px;
 	}
 
-	.testimonials .textblock{
+	.textblock {
     margin-top: 0;
 		padding-left: 0px;
 		padding-top: 0px;
@@ -163,13 +163,8 @@
 	  background: url(../images/quote.png) no-repeat 0px 2px;
 	}
 
-	.testimonials .textblock p {
+	.textblock p {
 		margin-bottom: 0;
-	}
-
-	.testimonials {
-		float: right;
-		font-size: 14px;
 	}
 
 	form .textblock {
@@ -178,15 +173,8 @@
 
 	.grid6,
   .grid4,
-  .grid5,
-  .grid8,
   .grid7 {
 		float: left;
-	}
-
-	.grid8 {
-		margin-right: 30px;
-		width: 390px;
 	}
 
 	.grid7 {
@@ -197,11 +185,6 @@
 	.grid6 {
     width: 390px;
 		margin-right: 0px;
-	}
-
-  .grid5 {
-    width: 350px;
-		margin-right: 30px;
 	}
 
  	.grid4 {
@@ -276,7 +259,7 @@
 		background: url(../images/home.png) no-repeat;
 	}
 
-  .grayscale span {
+  .icons span {
     display: block;
 		float: right;
     overflow: hidden;
