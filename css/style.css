@@ -51,7 +51,7 @@
 		width: 780px;
 		margin: 0 auto;
 		padding: 30px;
-    background: #fff url(../images/content_top_bg.png) no-repeat top;
+    background: #ffffff;
 	}
 
 	.bottom-bg {
@@ -152,7 +152,7 @@
     background: #ffffff url(../images/quote_medium.png) no-repeat 0px 5px;
 	}
 
-	.textblock {
+	.testimonials  .textblock {
     margin-top: 0;
 		padding-left: 0px;
 		padding-top: 0px;
@@ -170,6 +170,15 @@
 	form .textblock {
 		margin-bottom: 30px;
 	}
+
+  .testimonials {
+		float: right;
+		font-size: 14px;
+	}
+
+
+
+
 
 	.grid6,
   .grid4,
