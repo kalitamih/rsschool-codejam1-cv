@@ -152,13 +152,13 @@
     background: #ffffff url(../images/quote_medium.png) no-repeat 0px 5px;
 	}
 
-	.testimonials  .textblock {
+	.textblock {
     margin-top: 0;
 		padding-left: 0px;
 		padding-top: 0px;
 		padding-bottom: 0px;
     font-style: italic;
-		font-size: 14px;
+		font-size: 21px;
 		text-indent: 35px;
 	  background: url(../images/quote.png) no-repeat 0px 2px;
 	}
@@ -169,11 +169,6 @@
 
 	form .textblock {
 		margin-bottom: 30px;
-	}
-
-  .testimonials {
-		float: right;
-		font-size: 14px;
 	}
 
 	.grid6,
