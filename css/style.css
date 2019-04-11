@@ -41,37 +41,12 @@
 		line-height: 32px;
 	}
 
-	h1 {
-    margin: 0;
-		font-size: 65px;
-		margin: 0;
-		text-align: center;
-    color: #656565;
-	}
-
-	h2.h-border {
-		font-size: 38px;
-	}
-
 	.h-border {
     margin: 0;
 		margin-bottom: 30px;
 		margin-top: 15px;
 		padding-bottom: 10px;
 		background: url(../images/h2_border.png) repeat-x bottom;
-	}
-
-	h3.h-border {
-    padding-bottom: 17px;
-		font-size: 30px;
-	}
-
-	h2.jobtitle {
-    margin: 0;
-		font-size: 18px;
-		color: #bbbbbb;
-		text-align: center;
-		background: none;
 	}
 
 	article {
@@ -97,6 +72,12 @@
     width: 720px;
 		margin-right: 30px;
 	}
+
+  .contact-info {
+    float: left;
+    width: 720px;
+    margin-right: 30px;
+  }
 
 	.footer-section {
     float: left;
